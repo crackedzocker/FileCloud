@@ -139,6 +139,7 @@ Velocity Mode Simple
 Velocity toggle true
 PingSpoof toggle true
 Fly toggle false
+LiquidWalk toggle true
 Criticals toggle true
 Safewalk toggle true
 chat &6Have fun
