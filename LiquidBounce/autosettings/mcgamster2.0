@@ -1,6 +1,6 @@
-# &6Autosettings for &4&lmc.gamster.org
-# &6 Autosettings made by &4&lCrackedzocker
-# &6Settings: 
+chat &6Autosettings for &4&lmc.gamster.org
+chat &6 Autosettings made by &4&lCrackedzocker
+chat &6Settings: 
 Target Players true
 Target Mobs true
 Target Invisible true
@@ -31,7 +31,7 @@ Scaffold StayAutoBlock true
 Scaffold Swing true
 Scaffold Search true
 Scaffold BlockToEagle 0
-Scaffold BlockToLenght 4
+Scaffold ExpandLength 4
 Scaffold Rotations true
 Scaffold ZitterMode Teleport
 Scaffold ZitterSpeed 0.10
@@ -42,22 +42,37 @@ Scaffold AirSafe true
 Scaffold Counter true
 Scaffold Mark true
 Tower Mode Jump
-Tower AutoBlcok true
+Tower AutoBlock true
 Tower StayAutoBlock true
 Tower Swing true
-Tower Stopwhenblockabove true
-Tower Timer 1
-Tower JumpMotion 0.39
-Tower JumpDelay 1
-Tower ConstantMotion 0.11
-Tower ConstantMotionJumpGround 0.81
-Tower TeleportHeight 1
-Tower TeleportDelay 20
+Tower StopWhenBlockAbove false
+Tower Timer 1.0
+Tower JumpMotion 0.42
+Tower JumpDelay 0
+Tower ConstantMotion 1.0
+Tower ConstantMotionJumpGround 0.76
+Tower TeleportHeight 1.15
+Tower TeleportDelay 0
+Tower TeleportGround true
+Tower TeleportNoMotion false
 Tower Counter true
-Fly Mode Neruxvace
-Fly NeruxVace-Ticks 8
+Fly Mode NeruxVace
+Fly VanillaSpeed 5.0
+Fly VanillaKickBypass true
+Fly MineplexSpeed 1.0
+Fly NCPMotion 0.0
+Fly AACSpeed 0.3
+Fly AAC3.3.12-Motion 10.0
+Fly AAC3.3.13-Motion 10.0
+Fly NeruxVace-Ticks 6
+Fly HypixelLatest-Boost true
+Fly HypixelLatest-BoostDelay 1200
+Fly HypixelLatest-BoostTimer 1.0
+Fly Mark true
 InventoryMove AACAdditonPro true
 Liquidwalk Mode AAC3.3.11
+FastClimb Mode LAAC
+FastClimb NormalSpeed 0.2872
 NoSlow Sword NCP
 NoSlow Consume NCP
 NoSlow Bow NCP
@@ -134,18 +149,19 @@ Killaura FakeSharp true
 Velocity Horizontal 0.16
 Velocity Vertical 0.16
 Velocity Mode Simple
+Velocity ReverseStrength 1.0
+Velocity Reverse2Strength 0.05
+Velocity AACPushXZReducer 2.0
+Velocity AACPushYReducer false
 
-# Toggles:
+chat &6Toggles:
 Velocity toggle true
 PingSpoof toggle true
 Fly toggle false
-Criticals toggle true
+FastClimb toggle true
+Criticals toggle false
+LiquidWalk toggle true
 Safewalk toggle true
 chat &6Have fun
-chat &6 Note's:
-chat &6- Don't use the fly too often with the speed together in a round, you can be kicked.
-chat &6- Don't use the scaffold too often with the Killaura, you can be banned.
-chat &6- Once you burn, you may be flagged with criticals, but you don't get a kick.
-chat &6- With Knockback you have to move a bit regularly, otherwise you will be dragged back.
-chat &6- When scaffolding, you have to be careful that as soon as you don't hear the blocks that are set, you have to go back, otherwise you fly down.
-chat &6- This config is practically only made for Skywars.
+chat &6Settings was made for SkyWars.
+chat &6 My Webseite: https://autosettings-lb.jimdofree.com/
